@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Calc</string>
+    <string name="text_bn_add">Sumar</string>
+    <string name="text_result">Resultado</string>
+    <string name="Number_1">Number 1</string>
+    <string name="Number_2">Number 2</string>
+</resources>
